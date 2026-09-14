@@ -1,4 +1,4 @@
-# CARDIO4Cities — full pipeline (Hours 1–4)
+# CARDIO4Cities — full pipeline 
 
 LangGraph research pipeline + Streamlit UI: research a city, read a
 citation-backed report, ask follow-up questions grounded in what was
