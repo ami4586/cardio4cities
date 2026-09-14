@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+stores/cardio4cities.db
+stores/chroma_db/
+stores/.graph_indices_built
+.streamlit/secrets.toml

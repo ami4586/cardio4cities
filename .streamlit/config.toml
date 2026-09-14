@@ -1,0 +1,15 @@
+[theme]
+primaryColor = "#0B5D6E"
+backgroundColor = "#FAFAF7"
+secondaryBackgroundColor = "#EFEBE1"
+textColor = "#1C2B2E"
+font = "sans serif"
+
+[server]
+headless = true
+
+[client]
+# Hides the "Deploy" button and reduces the top-right menu to essentials --
+# appropriate once the app has its own real deployment, so Streamlit's own
+# scaffolding chrome doesn't sit on top of it.
+toolbarMode = "minimal"
